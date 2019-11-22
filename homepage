@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Mama Bea's Catering</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/main/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/main/script.js" defer></script>
+  </head>  
+  <body>
+<div id="webcontainer">
+  <div id="banner">
+   <ul>
+   <li><a href="#">Home</a></li>
+   <li><a href="/simplepages/about.html">About</a></li>
+   <li><a href="/simplepages/menu.html">Menu</a></li>
+   <li><a href="/simplepages/services.html">Services</a></li>
+   <li><a href="/mbcdatabase/order.html">Order Online</a></li>
+   <li><a href="/gallery/gallery.html">Gallery</a></li>
+   <li><a href="/reviews/reviews.html">Reviews</a></li>
+                    
+  <li style="float:right"><a class="buttons" href="/contact/contact.html">Contact</a></li> 
+  </ul>
+  <div class="logo"><img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2Fredoagainlol.png?v=1571327665195"></div> 
+ </div>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2Fpuffsize.png?v=1571803320123" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2Fjollof-with-goat-meat3.png?v=1571804553946" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2Fshokoafter.png?v=1571804088320" style="width:100%">
+</div>
+  
+<div class="mySlides fade">
+  <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2Fyeastafter.png?v=1571806555791" style="width:100%">
+</div>
+  
+<div class="mySlides fade">
+  <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2Fstewafter.png?v=1571807146704" style="width:100%">
+</div>
+  
+  <div class="mySlides fade">
+  <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2Fkebabafter.png?v=1571807473368" style="width:100%">
+</div>
+  
+  <div class="mySlides fade">
+  <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2Ffishafter.png?v=1571807721124" style="width:100%">
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+  
+  
+    
+  <div class="indexcontainer">
+    <h3>
+      Mama Bea's Catering
+    </h3>
+    <br><br>
+    <h2>
+      -Serving authentic West African & American cuisine since 2011
+     </h2>
+  </div>
+  
+  <div class="homecontainer">
+  <div class="row">
+  <div class="column">
+    <div class="container">
+    <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2FIMG_6517.JPG?v=1571678822530" alt="Snow" style="width:100%">
+  <div class="overlay">
+    <div class="pictext"> Appetizers are just as important as your main dishes! <b>Mama Bea's Catering</b> offers a variety of appetizers to choose from to cater for your events. 
+    <br><br>
+    Appetizers are also great as "finger food" for small events! <br><br>*Chin Chin & Meat Pie seen pictured underneath</div>
+  </div>
+    </div>
+      </div>
+      
+       <div class="column">
+    <div class="container">
+    <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2FIMG_6529.JPG?v=1571680075541" alt="Snow" style="width:100%">
+  <div class="overlay">
+    <div class="pictext"><b>Mama Bea's Catering</b> provides an endless array of main dishes. All made from fresh & organic ingredients. Main dishes are prepared in very large portions!
+    <br><br>
+   Perfect for big events when you need to cater to many. <br><br>  *Kontomire stew with Ampesi & Rice with Shoko/Spinach Stew seen pictured underneath</div>
+  </div>
+    </div>
+      </div>
+      
+       <div class="column">
+    <div class="container">
+    <img src="https://cdn.glitch.com/5b5e1744-61a8-4b16-94b2-609ade808c4b%2FIMG_6598.JPG?v=1571953114587" alt="Snow" style="width:100%">
+  <div class="overlay">
+    <div class="pictext"> It's always good to end a meal with something sweet! <b>Mama Bea's Catering</b> specializes in cakes & pastries to end your event with a nice sweet touch.
+    <br><br>
+   Wedding Cakes & Birthday Cakes also available! <br><br> *Pancakes/Crepes & Yellow Cake seen pictured underneath</div>
+  </div>
+    </div>
+      </div>
+    </div>
+
+ <div class="indexpeacecontainer">
+    <h3>
+      Mama Bea's Catering
+    </h3>
+    <br><br>
+    <h2>
+      -"Let us cater for your event"
+      <br><br>
+      Phone: 301-785-8043 • Email: okunorbeatrice@gmail.com
+      <br>
+      Based in Wheaton, MD
+     </h2>
+    </div>
+</div>
+    </div>
+  </body>
+</html>
+
